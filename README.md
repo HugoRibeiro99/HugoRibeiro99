@@ -30,6 +30,7 @@ Sou formado em **Logística** e **Sistemas para Internet (SPI)** e atualmente cu
 ![Estatísticas do Hugo](https://github-readme-stats.vercel.app/api?username=HugoRibeiro-estudante&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
+![Linguagens do Hugo](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoribeiro99&layout=compact&theme=dark)
 ---
 
 ### 📫 Onde me encontrar:
