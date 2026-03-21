@@ -13,7 +13,7 @@ Sou formado em **Logística** e **Sistemas para Internet (SPI)** e atualmente cu
 ---
 
 ### 🚀 No que estou trabalhando:
-* ✉️ **Slow Tech:** Projeto de cartas digitais com entrega programada ([Acesse aqui](https://carta-digital-teal.vercel.app)).
+* ✉️ **Slow Tech:** Projeto de cartas digitais com entrega programada ([Acesse aqui](https://carta-digital-teal.vercel.app/auth/login)).
 * 🛡️ **App Security:** Aprofundando estudos em Segurança de Aplicações e Ethical Hacking.
 * 🏗️ **Design Patterns:** Aplicando padrões de projetos para código limpo e escalável.
 
